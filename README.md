@@ -1,8 +1,6 @@
-# Bachelorarbeit
+# ProbabilisticBisimulationCheck
 
-1. Entwicklung eines effizienten Programms zur Berechnung der Äquivalenzklassen der probabilistischen Bisimilarität
-2. Implementierung von Transitionssystemen für die Analyse
-3. Verwendung von Python
+Entwicklung eines effizienten Programms zur Berechnung der Äquivalenzklassen der probabilistischen Bisimilarität. Zusätzlich wurde eine Implementierung von Transitionssystemen für die Analyse entwickelt, die mit Python umgesetzt wurde.
 
 ## Technologie-Stack
 
