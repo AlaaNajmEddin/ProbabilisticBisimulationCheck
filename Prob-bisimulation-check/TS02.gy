@@ -1,0 +1,4 @@
+digraph TS02 {
+	node [shape=circle]
+	U -> V [label=" t:1.0" fontsize=9]
+}

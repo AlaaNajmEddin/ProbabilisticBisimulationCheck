@@ -1,0 +1,5 @@
+digraph TS01 {
+	node [shape=circle]
+	X -> H [label=" d:1.0" fontsize=9]
+	G -> X [label=" d:1.0" fontsize=9]
+}
