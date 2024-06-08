@@ -1,6 +1,6 @@
 # ProbabilisticBisimulationCheck
 
-Ein Programm wurde entwickelt, das bei der Eingabe von zwei Transitionssystemen die Äquivalenzklassen der probabilistischen Bisimilarität berechnet. Zudem wurde eine grafische Benutzeroberfläche erstellt, die es ermöglicht, Transitionssysteme einzugeben, zu zeichnen und zu verwalten. Das Projekt wurde mit Python umgesetzt.
+Ein Programm wurde entwickelt, das bei der Eingabe von zwei Transitionssystemen die Äquivalenzklassen der probabilistischen Bisimilarität berechnet. Zudem wurde eine grafische Benutzeroberfläche erstellt, die es ermöglicht, Transitionssysteme einzugeben, zu zeichnen und zu verwalten. Darüber hinaus wurde die Laufzeit der Berechnung analysiert. Das Projekt wurde mit Python umgesetzt.
 
 ## Technologie-Stack
 
@@ -16,3 +16,12 @@ Ein Programm wurde entwickelt, das bei der Eingabe von zwei Transitionssystemen 
 - Gerichtete Graphbibliothek NetworkX
 - Bibliothek Pandas zur Überprüfung der probabilistischen Bisimulation
 - Bibliothek graphviz zur Anzeige des Graphen
+
+
+
+
+
+
+
+
+
