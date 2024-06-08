@@ -5,11 +5,6 @@ Ein Programm wurde entwickelt, das bei der Eingabe von zwei Transitionssystemen 
 ## Technologie-Stack
 
 - **Programmiersprache**: Python
-
-## Installation
-
-### Voraussetzungen
-
 - Python 3.8
 - Abhängigkeiten aus `requirements.txt`
 - Bibliothek PyQt5 zur Visualisierung des probabilistischen Bisimulationsgraphen
