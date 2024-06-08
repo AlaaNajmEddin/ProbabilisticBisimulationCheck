@@ -1,6 +1,6 @@
 # ProbabilisticBisimulationCheck
 
-Entwicklung eines effizienten Programms zur Berechnung der Äquivalenzklassen der probabilistischen Bisimilarität. Zusätzlich wurde eine Implementierung von Transitionssystemen für die Analyse entwickelt, die mit Python umgesetzt wurde.
+Ein Programm wurde entwickelt, das bei der Eingabe von zwei Transitionssystemen die Äquivalenzklassen der probabilistischen Bisimilarität berechnet. Zudem wurde eine grafische Benutzeroberfläche erstellt, die es ermöglichte, Transitionssysteme einzugeben, zu zeichnen und zu verwalten. Das Projekt wurde mit Python umgesetzt.
 
 ## Technologie-Stack
 
